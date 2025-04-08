@@ -19,3 +19,6 @@ https://btcd.tistory.com/1757
 https://repost.aws/ko/knowledge-center/start-stop-lambda-eventbridge
 
 https://velog.io/@odh0112/AWS-Lambda%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-EC2-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81
+
+keda
+https://techblog.gccompany.co.kr/keda-16204b60a388
